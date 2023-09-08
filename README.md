@@ -1,6 +1,6 @@
 ### GitHub Profile: Nicholas Hathaway
 
-### About Me:
+### About Me
 
 👋 Hello, fellow developers! I'm Nicholas Hathaway, a passionate software engineer with a deep love for coding and problem-solving. My journey in the world of technology began when I was just a curious kid tinkering with computers. Over the years, that curiosity grew into a full-fledged passion for creating software that makes a difference.
 
