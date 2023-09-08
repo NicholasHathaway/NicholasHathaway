@@ -7,4 +7,3 @@
 💻 I specialize in C#, and I'm always eager to expand my knowledge and explore new horizons in the ever-evolving tech landscape.
 
 🚀 Whether it's crafting elegant code, collaborating on exciting open-source projects, or helping others on their coding adventures, I'm here to learn, share, and grow with the amazing developer community.
-![CoolGIF]([[https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif](https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif)https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif))
